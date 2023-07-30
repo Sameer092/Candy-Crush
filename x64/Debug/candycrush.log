@@ -1,0 +1,8 @@
+﻿  Source.cpp
+F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\Source.cpp(1118,10): warning C4553: '==': result of expression not used; did you intend '='?
+F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\Source.cpp(1134,10): warning C4553: '==': result of expression not used; did you intend '='?
+F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\Source.cpp(1123,29): warning C4390: ';': empty controlled statement found; is this the intent?
+F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\Source.cpp(1139,29): warning C4390: ';': empty controlled statement found; is this the intent?
+F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\Source.cpp(1597,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\Source.cpp(193): warning C4715: 'packetchar': not all control paths return a value
+  candycrush.vcxproj -> F:\Sameer\3rd Semester\Data Structure Lab\FP\candycrush\x64\Debug\candycrush.exe
